@@ -84,6 +84,7 @@ const answers = [
     '{userName}のおすすめ原曲は Spider Dance',
     '{userName}のおすすめ原曲は Crazy hill',
     '{userName}のおすすめ原曲は Disco Necropolis',
+    '{userName}のおすすめ原曲は amber'
     '{userName}のおすすめ原曲は The snippet',
     '{userName}のおすすめ原曲は 亀上的竜宮生活',
     '{userName}のおすすめ原曲は Dans la rue',
